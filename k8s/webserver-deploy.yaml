@@ -20,7 +20,7 @@ spec:
         app: webserver
     spec:
       containers:
-      - image: clarusway/webserver13
+      - image: clarusway/webserver15
         name: webserver13
         ports:
         - containerPort: 80
